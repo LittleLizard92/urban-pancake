@@ -1,2 +1,2 @@
 # urban-pancake
-Smart Home repository
+my own Smart Home project
